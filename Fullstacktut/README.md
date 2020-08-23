@@ -24,3 +24,4 @@
 
 ## 기록
 1. 39:51 기본세팅 & MicroORM Setup
+2. 1:09:31 express & graphql crud
