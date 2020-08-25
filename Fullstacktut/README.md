@@ -25,3 +25,4 @@
 ## 기록
 1. 39:51 기본세팅 & MicroORM Setup
 2. 1:09:31 express & graphql crud
+3. 1:41:46 로그인 & 등록에 대한 유저 resolver를 만듬
