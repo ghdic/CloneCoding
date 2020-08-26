@@ -26,3 +26,4 @@
 1. 39:51 기본세팅 & MicroORM Setup
 2. 1:09:31 express & graphql crud
 3. 1:41:46 로그인 & 등록에 대한 유저 resolver를 만듬
+4. 2:07:59 세션 & 쿠키 (session undefined에러 못잡아서 깃에 제작자한테 물어봄..)
