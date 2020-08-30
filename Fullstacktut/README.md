@@ -29,3 +29,4 @@
 4. 2:07:59 세션 & 쿠키 (session undefined에러 못잡아서 깃에 제작자한테 물어봄..)
 5. 2:53:23 서버 & 클라이언트 나누고 nextjs & urql로 서버와 graphql 쿼리를 날리는걸 배움
 6. 3:27:04 (register & login error handling) & navbar 만듬
+7. 4:12:38 urql cache로 사용자 세션확인 & 로그아웃, ssr렌더링
