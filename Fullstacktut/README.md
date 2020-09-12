@@ -30,3 +30,4 @@
 5. 2:53:23 서버 & 클라이언트 나누고 nextjs & urql로 서버와 graphql 쿼리를 날리는걸 배움
 6. 3:27:04 (register & login error handling) & navbar 만듬
 7. 4:12:38 urql cache로 사용자 세션확인 & 로그아웃, ssr렌더링
+8. 5:23:00 nodemailer로 forget password 기능 만들기, redis -> uuid, ioredis로 대체
